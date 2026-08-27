@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add your live-domain sitemap URL here after deployment.
