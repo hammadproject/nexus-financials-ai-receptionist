@@ -9,6 +9,7 @@ Nexus Financials is a modern, responsive financial services website designed to 
 The website also includes an integrated AI voice receptionist powered by Vapi, allowing visitors to interact with an AI assistant directly from the website.
 
 ---
+<img width="1056" height="724" alt="image" src="https://github.com/user-attachments/assets/3bc3777d-49f0-4735-8b55-c1160f61cfc2" />
 
 ## Overview
 
